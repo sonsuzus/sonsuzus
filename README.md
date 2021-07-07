@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @sonsuzus
-- 👀 C/C++, php, sql, python, c#
-- 🌱 I’m currently learning python, c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi i m turkish programmer and programing teacher
 
-<!---
-sonsuzus/sonsuzus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Selamlar, Profil sayfama hoşgeldiniz.
+
+Python, C/C++, php, sql, java, small basic, html ve css üzerine programları paylaşacağım ve öğreteceğim. İlgili bölümlere link vereceğim.
+
 Programlama çalışma dosyalarımın olduğu bölümdeyiz.
