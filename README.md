@@ -21,10 +21,9 @@ if __name__ == '__main__':
     me = SonsuzUs()
 ```
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h3>
 
-<p align="center">
-<table>
+<table align="center">
     <tbody>
         <tr>
             <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
@@ -82,7 +81,7 @@ if __name__ == '__main__':
         </tr>
     </tbody>
 </table>
-</p>
+<br/>
 
 <h2 align="center"> Github stats </h2>
       <br/>
@@ -100,7 +99,7 @@ if __name__ == '__main__':
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sonsuzus&theme=gruvbox&layout=compact&hide_border=true"
           alt="sonsuzus :: Top Langs by commit" />
           </a>
-        </p>
+ </br>
 
     
   <h3>Stasistic</h3>
