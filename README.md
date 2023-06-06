@@ -23,6 +23,7 @@ if __name__ == '__main__':
 
 <h3 align="center">Languages and Tools:</h3>
 
+<p align="center">
 <table>
     <tbody>
         <tr>
@@ -81,10 +82,7 @@ if __name__ == '__main__':
         </tr>
     </tbody>
 </table>
-
-
-
-<br>
+</p>
 
 <h2 align="center"> Github stats </h2>
       <br/>
