@@ -9,6 +9,7 @@ class SonsuzUs():
     self.name = "Sonsuz Us";
     self.username = "sonsuzus";
     self.location = "Istanbul, Turkey";
+    self.lang = "tr"
     self.twitter = "@sonsuzbilgi";
     self.web = "https://www.sonsuz.us";
     self.work = "Programmer, Developer and Teacher";
