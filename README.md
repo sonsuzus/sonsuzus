@@ -112,3 +112,7 @@ if __name__ == '__main__':
           </a>
        </p>
   
+<h3>Links</h3>
+
+* [Tartışmalar Konular](https://github.com/sonsuzus/sonsuzus/discussions)
+* [SonsuzUs Github](https://sonsuzus.github.io)
