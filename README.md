@@ -51,9 +51,9 @@ if __name__ == '__main__':
                         src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" /></a></td>
             <td><a href="#"><img alt="Java" title="Java" height="28px"
                         src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a></td>
-            <td><a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="28px" height="28px"/></a>
+            <td><a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C" width="28px" height="28px"/></a>
             </td>
-            <td><a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="28px" height="28px"/></a></td>
+            <td><a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="Linux" width="28px" height="28px"/></a></td>
         </tr>
         <tr>
             <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
