@@ -78,8 +78,8 @@ if __name__ == '__main__':
                         src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
             <td><a href="#"><img alt="Android Studio" title="Android Studio" height="28px"
                         src="https://i.imgur.com/6nJGNMN.png" /></a></td>
-            <td><a href="#"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="28px" height="28px"/></a></td>
-            <td><a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="28px" height="28px"/></a></td>
+            <td><a href="#"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" title="Arduino" width="28px" height="28px"/></a></td>
+            <td><a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" title="Bootstrap" width="28px" height="28px"/></a></td>
         </tr>
     </tbody>
 </table>
