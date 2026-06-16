@@ -11,7 +11,7 @@ class SonsuzUs():
     self.location = "Istanbul, Turkey";
     self.lang = "tr"
     self.twitter = "@sonsuzbilgi";
-    self.web = "https://www.sonsuz.us";
+    self.web = ["https://sonsuz.us","https://blog.sonsuz.us","https://sonsuzus.github.io","https://www.mitolojisi.com"];
     self.work = "Programmer, Developer and Teacher";
     self.programs = ["Python","C/C++","Java","PHP","C#","HTML","JavaScript","Basic","SQL","Algorithm"];
     self.interests = ["Chess","Go","Intelligence","BigData","Mythology","Dreams"];
